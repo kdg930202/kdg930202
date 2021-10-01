@@ -1,7 +1,7 @@
 # kodo
 
 
-Hello hello, I'm Mijeong - a Software/Machine Learning Engineer who loves deep learning and web dev, currently based in the San Francisco Bay Area.
+Hello hello, I'm Kodo
 
 
 
